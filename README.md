@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wajahat145
 - 👀 I’m interested in software solutions specially web based
 - 🌱 I’m always prefer to keep learning, continue challenging myself
-- 📫 you can reach me by *learning.wajahat@gmail.com*
+- 📫 you can reach me by *wajahathaider98@gmail.com*
 
 
 <!---
