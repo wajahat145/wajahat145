@@ -137,7 +137,7 @@ Here’s a quick overview of the technologies and tools I work with:
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)  
 ![Reactive Forms](https://img.shields.io/badge/Reactive%20Forms-FF6F61?style=for-the-badge&logo=angular&logoColor=white)  
 ![Communication](https://img.shields.io/badge/Communication-FF6F61?style=for-the-badge&logo=communication&logoColor=white)  
-![Problem Solving](https://img.shields.io/badge/Problem%  
+![Problem Solving](https://img.shields.io/badge/Problem%)  
 
 
 ## 📫 Let’s Connect!  
