@@ -70,18 +70,15 @@ Currently, I’m a **Software Engineer at Imaginera**, where I contribute to the
 
 ### 1. **Orca - Insurance and Reinsurance Workbench**  
 - **Description**: A global platform for managing insurance and reinsurance workflows.  
-- **Tech Stack**: .NET Core, Angular, Azure Functions, SQL Server, Micro-frontend Architecture.  
-- **Link**: [GitHub Repo](Private)  
+- **Tech Stack**: .NET Core, Angular, Azure Functions, SQL Server, Micro-frontend Architecture. 
 
 ### 2. **Branchless Banking Agent Network**  
 - **Description**: A platform supporting **75,000+ agents** and processing **millions of transactions daily**.  
-- **Tech Stack**: .NET Core, Angular, Azure, REST APIs, CQRS.  
-- **Link**: [GitHub Repo](Private)  
+- **Tech Stack**: .NET Core, Angular, Azure, REST APIs, CQRS.
 
 ### 3. **Orca Transaction Management System**  
 - **Description**: A system handling **50,000+ monthly bank transactions**, streamlining financial operations.  
-- **Tech Stack**: .NET Core, SQL Server, Azure Functions, Benchmark.NET.  
-- **Link**: [GitHub Repo](Private)  
+- **Tech Stack**: .NET Core, SQL Server, Azure Functions, Benchmark.NET.
 
 ---
 
