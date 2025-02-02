@@ -132,12 +132,14 @@ Here’s a quick overview of the technologies and tools I work with:
 ![System Architecture](https://img.shields.io/badge/System%20Architecture-0089D6?style=for-the-badge&logo=architecture&logoColor=white)  
 ![High Performance Computing (HPC)](https://img.shields.io/badge/High%20Performance%20Computing-FF6F61?style=for-the-badge&logo=hpc&logoColor=white)  
 
-### **Tools & Soft Skills**  
+### **DevOps & Tools**  
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)  
-![Reactive Forms](https://img.shields.io/badge/Reactive%20Forms-FF6F61?style=for-the-badge&logo=angular&logoColor=white)  
-![Communication](https://img.shields.io/badge/Communication-FF6F61?style=for-the-badge&logo=communication&logoColor=white)  
-![Problem Solving](https://img.shields.io/badge/Problem%)  
+
+---
 
 
 ## 📫 Let’s Connect!  
