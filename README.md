@@ -1,9 +1,9 @@
 # Hi, I'm Wajahat 👋  
 ## Full-Stack Software Engineer  
 
-I’m a passionate and results-driven **Full-Stack Software Engineer** with over **4 years of experience** in designing, developing, and optimizing scalable, high-performance applications. My expertise spans across **insurance, banking, fintech, and enterprise software domains**, where I’ve delivered robust solutions that streamline business processes and enhance user experiences.  
+I’m a passionate and results-driven **Full-Stack Software Engineer** with over **5 years of experience** in designing, developing, and optimizing scalable, high-performance applications. My expertise spans across **healthcare, insurance, banking, fintech, and enterprise software domains**, where I’ve delivered robust solutions that streamline business processes and enhance user experiences.  
 
-Currently, I’m a **Software Engineer at Imaginera**, where I contribute to the development of **Orca**, a cutting-edge insurance and reinsurance workbench used globally. My role involves building and maintaining complex transactional systems, designing high-performance APIs, and optimizing application performance using technologies like **.NET Core, Angular, Azure, Entity Framework, SQL Server, and micro-frontend architecture**.  
+Some technologies I enjoy working with are .Net, ReactJS, JavaScript and currently learning GO.
 
 ---
 
@@ -15,7 +15,7 @@ Currently, I’m a **Software Engineer at Imaginera**, where I contribute to the
 - **CQRS, Mediator Pattern, Transactional Systems**  
 
 ### **Frontend Development**  
-- **Angular, TypeScript, RxJS**  
+- **ReactJs, Angular, TypeScript, RxJS**  
 - **Tailwind CSS, AG-GRID, Reactive Forms**  
 - **Micro-frontend Architecture**  
 
@@ -43,42 +43,6 @@ Currently, I’m a **Software Engineer at Imaginera**, where I contribute to the
 ✅ **Built scalable microservices** and cloud-based solutions using **Azure Functions, Azure Service Bus, and enterprise architecture principles**, enabling robust and cost-effective systems.  
 
 ✅ **Contributed to the development of key features** for the **Branchless Banking Agent Network** at **HBL**, supporting **75,000+ agents nationwide** and processing **millions of transactions daily**.  
-
----
-
-## 💼 Professional Experience  
-
-### **Software Engineer** at **Imaginera**  
-- **Orca**: Developed and maintained a global insurance and reinsurance workbench, leveraging **.NET Core, Angular, and Azure** to deliver a scalable and high-performance platform.  
-- **Key Contributions**: Designed high-performance APIs, optimized application performance, and implemented micro-frontend architecture for modular and maintainable code.  
-
-### **Software Engineer** at **Dadatech.ca**  
-- Worked on **fintech and banking applications**, including **eBanking solutions, loan disbursement services, and branchless banking platforms**.  
-- **Key Contributions**: Implemented **CQRS, Mediator patterns, and RESTful APIs**, ensuring high security and performance for financial applications.  
-
-### **Software Engineer** at **HBL (Habib Bank Limited)**  
-- Contributed to the development of **branchless banking platforms**, enabling **millions of daily transactions** and supporting **75,000+ agents nationwide**.  
-- **Key Contributions**: Designed system architectures, optimized performance, and ensured seamless integration with third-party systems.  
-
-### **Software Engineer** at **Starsys Solutions**  
-- Developed **attendance, payroll, and visitor management systems** using **ASP.NET Web APIs, SQL Server, and SDK integrations**.  
-- **Key Contributions**: Built end-to-end enterprise solutions, improving operational efficiency and user satisfaction.  
-
----
-
-## 🌟 Featured Projects  
-
-### 1. **Orca - Insurance and Reinsurance Workbench**  
-- **Description**: A global platform for managing insurance and reinsurance workflows.  
-- **Tech Stack**: .NET Core, Angular, Azure Functions, SQL Server, Micro-frontend Architecture. 
-
-### 2. **Branchless Banking Agent Network**  
-- **Description**: A platform supporting **75,000+ agents** and processing **millions of transactions daily**.  
-- **Tech Stack**: .NET Core, Angular, Azure, REST APIs, CQRS.
-
-### 3. **Orca Transaction Management System**  
-- **Description**: A system handling **50,000+ monthly bank transactions**, streamlining financial operations.  
-- **Tech Stack**: .NET Core, SQL Server, Azure Functions, Benchmark.NET.
 
 ---
 
